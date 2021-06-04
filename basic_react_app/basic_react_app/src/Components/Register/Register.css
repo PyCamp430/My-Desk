@@ -1,0 +1,19 @@
+.regblock {
+    width: 30%; padding-top: 50px;
+}
+
+form {
+    font-size: 20px; color:purple;
+}
+
+.btn-primary {
+    background-color: purple; border:none; margin-top: 0px;;
+}
+
+.btn-primary:hover {
+    background-color:plum;
+}
+
+.nav-link {
+    text-decoration: underline; padding-top: 40px; font-size: 20px;
+}

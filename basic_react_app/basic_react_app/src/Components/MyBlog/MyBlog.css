@@ -1,0 +1,36 @@
+.block {
+    height: 100vh; background-image:url("../images/flower.jpg"); background-size: cover; overflow: auto; 
+    box-shadow: 5px 5px 25px -5px black; border-left: 10px solid purple; 
+    border-right: 10px solid purple;
+}
+
+#bloghead {
+    text-align: center; padding: 20px; margin-bottom: 30px; color: purple; font-style: italic;
+}
+
+#title {
+    margin-top: 50px; margin-left: 0px; background-color: wheat; box-shadow: 0px 5px 5px 0px black;
+    color: brown; font-family: cursive;
+}
+
+#content {
+    background-color: wheat; box-shadow: 0px 5px 5px 0px black; height: 250px
+}
+
+.posts {
+    box-shadow: 5px 5px 25px -5px; background-color: rgb(230, 178, 230); margin-bottom: 70px; 
+    border-radius: 20px; color: purple; font-style: italic;
+}
+
+#posttitle {
+    font-size: 20px; padding-top: 5px; font-weight: bold;
+}
+
+#back {
+    font-size: 15px; background-color: purple; border-radius: 5px; margin: 5px; padding: 5px;
+}
+
+#intro {
+    font-size: 20px; font-style: italic; color: plum; padding: 10px; border-radius: 10px;
+    background-color: purple; text-align: center;
+}

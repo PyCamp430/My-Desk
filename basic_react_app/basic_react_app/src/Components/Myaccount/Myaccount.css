@@ -1,0 +1,12 @@
+.list{
+    display: inline; padding: 30px; font-family:Arial, Helvetica, sans-serif;
+}
+
+button {
+    margin-top: 20px; color:brown; padding: 10px; border-radius: 10px; font-size: 15px; 
+    background-color:rgb(235, 206, 168); outline: none;
+}
+
+#tag {
+    color: plum; font-family: cursive;
+}

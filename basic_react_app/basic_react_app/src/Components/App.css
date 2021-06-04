@@ -1,0 +1,21 @@
+body {
+    background-image: url("./images/coffee.jpg"); background-repeat: no-repeat; background-size: cover;
+}
+
+#subhead li {
+    display: inline; padding: 15px;
+}
+
+#subhead {
+    padding-top: 20px; text-align: left; border: 2px solid purple; background-color: purple; 
+    padding-bottom: 20px; padding-left: 0px;
+}
+
+a {
+    color:plum; font-family: Georgia, 'Times New Roman'; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}

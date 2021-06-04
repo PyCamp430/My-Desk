@@ -1,0 +1,19 @@
+.logblock {
+    width: 30%; padding-top: 100px;
+}
+
+.btn-primary {
+    background-color: purple; border:none;
+}
+
+.btn-primary:hover {
+    background-color:plum
+}
+
+.form-control {
+    height: 30px;
+}
+
+.nav-link {
+    text-decoration: underline; text-align: center;
+}
